@@ -2,20 +2,7 @@
 ###########AQUI ESTÃO AS IMPORTAÇÕES NECESSÁRIAS PARA ESSE PROJETO!######################
 import streamlit as st
 import pandas as pd
-import firebase_admin
 from streamlit_option_menu import option_menu
-from firebase_admin import credentials
-from firebase_admin import auth
-
-#Autenticação conectando ao firebase#
-
-#def app():
-
-  #cred = credentials.Certificate("chave.json")
-#firebase_admin.initialize_app (cred = {"databaseurl" : "https://biblioteca-sete-vidas-default-rtdb.firebaseio.com/"})
-
-
-
 
 #################Sidebar é para constuir o Menu lateral na página...#####################
 with st.sidebar:
