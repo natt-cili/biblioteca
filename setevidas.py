@@ -27,7 +27,7 @@ if choose == ("Iniciar"):
    st.title("A biblioteca é sua!")
    st.subheader("Biblioteca é sinônimo de espaço dinâmico, atrativo, inclusivo e, acima de tudo, repleto de novas ofertas.")
    st.write("Usando a tecnologia a nosso favor, criamos esse site para que você possa se sentir em casa.")
-   st.write("Aqui você pode ver as novidades, acessar um portal com suas informações, fazer seu próprio empréstimo de livro, tanto físico quanto digital, sem nenhuma burocrácia. \nPode também dar sua opnião sobre o livro lido para que outros leitores possam saber o que você achou. \nAqui você consegue ver todos os livros disponíveis em nossa biblioteca e encontrá-los com facilidades usando o Buscador Sr. Bigode... Ele te dirá em quais prateleiras encontrará o gênero que deseja ler. ")
+   st.write("Aqui você pode ver as novidades, acessar um portal com suas informações, fazer seu próprio empréstimo de livro, tanto físico quanto digital, sem nenhuma burocrácia. \nPode também dar sua opnião sobre o livro lido para que outros leitores possam saber o que você achou. \nAqui você consegue ver todos os livros disponíveis em nossa biblioteca e encontrá-los com facilidades usando o Buscador Mr. Bigode... Ele te dirá em quais prateleiras encontrará o gênero que deseja ler. ")
 
 ###Página 2  ###########DESENVOLVIDO! ------
 
